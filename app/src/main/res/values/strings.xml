@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">yoga_test</string>
+    <string name="title">Currency converter</string>
+    <string name="send_str">You send</string>
+    <string name="get_str">They get</string>
+  <string name="choose_curr">Choose a currency</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+</resources>
